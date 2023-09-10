@@ -1,0 +1,20 @@
+{
+  "name": "fundamentos-nodejs",
+  "version": "1.0.0",
+  "description": "Rocketseat - Ignite - NodeJS",
+  "author": {
+    "name": "Reginaldo Motta",
+    "email": "reginaldomcv@gmail.com",
+    "url": "https://reginaldomotta.github.io/contato/"
+  },
+  "main": "index.js",
+  "scripts": {
+    "dev": "",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/reginaldomotta/fundamentos-nodejs",
+    "type": "github"
+  }
+}
