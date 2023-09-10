@@ -16,5 +16,8 @@
   "repository": {
     "url": "https://github.com/reginaldomotta/fundamentos-nodejs",
     "type": "github"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
   }
 }
